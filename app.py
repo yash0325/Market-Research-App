@@ -4,6 +4,9 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
+import nltk
+nltk.download('punkt')
+
 
 # Load environment variables for OpenAI key, etc.
 load_dotenv()
