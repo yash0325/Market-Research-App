@@ -3,4 +3,6 @@ langchain
 langchain-openai
 python-dotenv
 newspaper3k
+nltk
+lxml
 openai
