@@ -18,3 +18,6 @@ Processes **500+ articles weekly**, reduces research cycles by **~70%**, and imp
 - Optional **evaluation mode**: compare LLM sentiment output vs. labeled dataset (accuracy/F1)  
 - Deployment-ready on **Streamlit Community Cloud**
 
+<img width="1918" height="773" alt="image" src="https://github.com/user-attachments/assets/606a6326-77be-4892-9e39-8cbef82b797f" />
+
+
